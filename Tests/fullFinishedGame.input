@@ -1,0 +1,88 @@
+2
+Tests/baseGame.save
+place g3 at b3
+place g4 at b5
+place y4 at a5
+place o1 at c4
+place y3 at a6
+place o3 at c3
+place y5 at a7
+replace g1
+replace g4
+place o5 at c2
+place p1 at d4
+place y1 at e4
+replace y4
+place o4 at c5
+place g5 at b2
+replace o1
+replace o3
+place r3 at a3
+replace r3
+replace o4
+place r5 at a2
+place p4 at d5
+place p5 at d2
+place b1 at f4
+replace y3
+place y2 at a8
+replace g5
+place p3 at d3
+place y6 at a9
+place o6 at b9
+place r6 at c9
+replace b2
+place p6 at d9
+replace y1
+place p2 at d1
+place r1 at g4
+replace p4
+place g6 at e9
+replace g3
+place r1 at c10
+place b6 at f9
+place o2 at c6
+place r4 at c11
+place r2 at c12
+place p1 at g5
+replace r2
+place y2 at d12
+place b2 at f8
+place b4 at f7
+place b3 at f10
+place b1 at f11
+place y5 at d13
+place b5 at f12
+replace p3
+place p5 at g12
+place g2 at b1
+place o5 at h12
+place o6 at h13
+replace b5
+place o2 at i13
+place g2 at i14
+place p2 at i15
+place b3 at g8
+place p6 at j15
+place b6 at j16
+place g6 at k16
+place r3 at b11
+place r4 at e7
+place b4 at e6
+place r6 at k17
+place y6 at l17
+place g1 at f3
+place r5 at c13
+place y4 at d14
+place g4 at e14
+place o4 at f14
+place o1 at h5
+place o3 at h11
+place y3 at d15
+place g5 at b13
+place b2 at e11
+place y1 at g3
+place p4 at d7
+place g3 at c15
+place r2 at a11
+place p3 at e1

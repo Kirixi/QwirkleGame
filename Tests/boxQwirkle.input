@@ -1,0 +1,60 @@
+2
+Tests/baseGame.save
+place g3 at b5
+place g4 at b6
+place r3 at c5
+place o3 at d5
+replace g4
+place r4 at c6
+replace y4
+replace r3
+place y3 at e5
+place o1 at d4
+place y4 at e6
+place y1 at e4
+place p1 at f4
+place o4 at d6
+place y5 at e7
+place o5 at d7
+place r5 at c7
+place r2 at c8
+place p5 at f7
+place b1 at g4
+place p6 at f3
+place p4 at f6
+place b4 at g6
+place y2 at e8
+place g5 at b7
+replace b2
+place b5 at g7
+place p3 at f5
+place p2 at f8
+place o6 at d3
+place r6 at c3
+place g6 at b3
+place y6 at e3
+place b2 at g8
+replace o3
+place r1 at c4
+replace r4
+replace g1
+place b6 at g3
+replace o1
+replace y3
+place o2 at d8
+replace g5
+place b3 at g5
+replace g3
+replace o4
+replace p4
+replace p3
+replace b5
+replace r6
+replace b1
+replace y5
+replace o5
+replace p6
+replace b4
+place g2 at b8
+save Tests/boxQwirkle
+quit

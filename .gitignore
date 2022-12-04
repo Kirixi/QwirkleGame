@@ -1,0 +1,17 @@
+# everything except settings.json is ignored
+.vscode/*
+!settings.json
+
+# workspace file
+*.code-workspace
+
+# debug symbols and object files
+*.dSYM
+*.o
+qwirkle
+
+# code history
+.history/
+
+# other ide files
+.idea
